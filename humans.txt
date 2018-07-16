@@ -7,7 +7,7 @@
 	andy 
 
 # THANKS
-
+	thanks to everyone
     <name>
 
 # TECHNOLOGY COLOPHON
