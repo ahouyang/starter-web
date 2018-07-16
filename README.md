@@ -11,3 +11,4 @@ Sample website with plenty of files for demos
 fork and pull
 ##copyright
 copyright
+all rights reserved
